@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int a = 2;      // base
-    int b = 3;      // exposant
+    int a = 2;      
+    int b = 3;     
     int resultat = 1;
 
     // Calcul de a^b
@@ -14,3 +14,4 @@ int main() {
 
     return 0;
 }
+
